@@ -1,5 +1,8 @@
 class hello{
 
-void helloji(){
+
+void hello(){
+
+
 }
 }
